@@ -1,0 +1,23 @@
+C:\Program Files\Siemens\Automation\Portal V20\PublicAPI\V20.AddIn\Siemens.Engineering.AddIn.Publisher.exe --> 20/05/2025 13:17:14 UTC
+
+Calling Arguments:
+--configuration              :C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\bin\Debug\Config.xml
+--logfile                    :C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\bin\Debug\publisher_log.txt
+--outfile                    :
+--edition                    :
+--verbose                    :True
+--console                    :True
+--pause                      :False
+--skipEngMemberCheck         :False
+
+Packaging engineering version.
+Packaging assembly 'tiaaddin, version=1.0.0.0, culture=neutral, publickeytoken=null, processorarchitecture=msil'.
+Packaging Id.
+Packaging ProductName.
+Packaging multiuser settings information.
+Packaging project template used information.
+Packaging Permission 'System.UnrestrictedAccess'.
+Packaging Permission 'TIA.ReadWrite'.
+Packaging PDB 'FeatureAssembly_Pdb'.
+
+ --> S U C C E E D E D <-- (0,263s)

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\bin\Debug\Config.xml
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\bin\Debug\TIAAddin.dll
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\bin\Debug\TIAAddin.pdb
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\obj\Debug\TIAAddin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\obj\Debug\TIAAddin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\obj\Debug\TIAAddin.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\obj\Debug\TIAAddin.AssemblyInfo.cs
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\obj\Debug\TIAAddin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\obj\Debug\TIAAddin.dll
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\obj\Debug\TIAAddin.pdb
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\bin\Debug\Siemens.Engineering.AddIn.dll
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\bin\Debug\Siemens.Engineering.Hmi.dll
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\bin\Debug\Siemens.Engineering.AddIn.xml
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\bin\Debug\Siemens.Engineering.Hmi.xml
+C:\Users\User\Desktop\Openness\TIAAddin\TIAAddin\obj\Debug\TIAAddin.csproj.Up2Date

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PackageConfiguration xmlns="http://www.siemens.com/automation/Openness/AddIn/Publisher/V20">
+  <!--Enter values for Author, Description, AddInVersion, Name, ...-->
+  <Author>Pascal</Author>
+  <Description>The Add-In description.</Description>
+  <AddInVersion>V0.1</AddInVersion>
+  <Product>
+    <Name>Add-In Name</Name>
+    <Id>71552E21-950C-4DAB-8C10-E626CC6732D1</Id>
+    <Version>0.0.1.0</Version>
+  </Product>
+  <FeatureAssembly>
+    <AssemblyInfo>
+      <Assembly>TIAAddin.dll</Assembly>
+      <Pdb>TIAAddin.pdb</Pdb>
+    </AssemblyInfo>
+  </FeatureAssembly>
+  <RequiredPermissions>
+    <TIAPermissions>
+      <TIA.ReadWrite />
+    </TIAPermissions>
+     <UnrestrictedPermissions>
+      <System.UnrestrictedAccess>
+        <JustificationComment>need acces</JustificationComment>
+      </System.UnrestrictedAccess>
+    </UnrestrictedPermissions>    
+  </RequiredPermissions>
+</PackageConfiguration>
